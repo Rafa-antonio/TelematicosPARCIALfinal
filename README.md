@@ -1,4 +1,7 @@
 # TelematicosPARCIALfinal
+ Rafael Antonio Gomez 2185702
+ Juan Camilo Ceron De Jesus  2201856
+
 
 Instalación y Configuración de Prometheus:
 
